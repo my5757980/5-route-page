@@ -1,0 +1,60 @@
+
+  
+  
+
+.section{
+  background-image:linear-gradient(
+    rgba(0,0,0,0.3),
+    rgba(0,0,0,0.3)
+  ),
+  URL("download (10).jpg");
+  height:100vh;
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  background-attachment:fixed;
+  
+  
+}
+  .nav {
+    background-color:black;
+    padding: 1rem;
+    height:80px;
+  }
+
+  .ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    gap: 50px;
+  }
+
+  .link {
+    color: white;
+    text-decoration: none;
+  }
+
+  .link:hover {
+    color:gray;
+    text-decoration: underline;
+  }
+
+  .log{
+    font-size:25px;
+    text-transform: uppercase;
+    color:white;
+    text-decoration:none;
+    padding: 0px 35px 
+
+    
+
+  }
+
+
+
+
+
+  
+  
+  
+  
